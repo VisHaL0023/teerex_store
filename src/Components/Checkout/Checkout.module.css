@@ -1,0 +1,14 @@
+.textFieldContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.shippingContainer {
+  padding: 2rem 1rem;
+}
+
+.containerGrid {
+  background-color: #f0f0f0;
+  padding: 5px;
+}

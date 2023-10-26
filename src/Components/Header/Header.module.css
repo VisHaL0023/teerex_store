@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,400;1,600&display=swap");
+
+.headerData {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  height: 70px;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.headerConatiner {
+  width: 100%;
+}
+
+.search {
+  padding: 2px;
+  height: 30px;
+  width: 340px;
+  align-items: center;
+  border: 2px solid rgb(192, 191, 190);
+  border-radius: 8px;
+  padding: 7px;
+}
+
+.teerax {
+  display: flex;
+  flex-direction: column;
+  font-family: "Playpen Sans", cursive;
+  padding-left: 15px;
+  font-size: 25px;
+  cursor: pointer;
+  /* height: 20px; */
+}
